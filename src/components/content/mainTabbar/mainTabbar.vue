@@ -1,12 +1,6 @@
 <template>
   <div>
     <tab-bar>
-      <h2>2</h2>
-      <tab-bar-item>
-        321
-      </tab-bar-item>
-    </tab-bar>
-    <tab-bar>
       <tab-bar-item path='/Home' activeColor="pink">
         <template v-slot:item-img>
           <img src="~assets/img/tabbar/home.svg" alt="01">
